@@ -11,7 +11,7 @@ firebaseConfig = {
   "messagingSenderId": "449510012162",
   "appId": "1:449510012162:web:c41d2c63a6e65b8211fe1b",
   "measurementId": "G-T7TFCT7YR2",
-  "serviceAccount" : "./key.json"
+  "serviceAccount" : "key.json"
 
 }
 
